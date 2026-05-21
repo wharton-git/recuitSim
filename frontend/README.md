@@ -5,18 +5,19 @@ Interface React TypeScript pour visualiser l'optimisation energetique d'un PC po
 ## Prerequis
 
 - Node.js
+- pnpm
 - Backend FastAPI lance sur `http://localhost:8000`
 
 ## Installation
 
 ```bash
-npm install
+pnpm install
 ```
 
 ## Lancement
 
 ```bash
-npm run dev
+pnpm run dev
 ```
 
 L'application Vite est disponible sur l'URL affichee par le terminal, generalement `http://localhost:5173`.
@@ -30,3 +31,12 @@ L'application Vite est disponible sur l'URL affichee par le terminal, generaleme
 
 Par defaut, le frontend cible `http://localhost:8000`. Vous pouvez changer cette URL avec `VITE_API_URL`.
 
+## Docker
+
+Depuis la racine du projet :
+
+```bash
+docker compose up --build
+```
+
+Le frontend est ensuite disponible sur `http://localhost:5173`.

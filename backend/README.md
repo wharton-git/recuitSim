@@ -62,3 +62,16 @@ L'API est ensuite disponible sur `http://127.0.0.1:8000`.
 
 La reponse contient la meilleure solution, le front de Pareto, les profils recommandes, l'historique des iterations et un resume.
 
+## Docker
+
+Depuis la racine du projet :
+
+```bash
+docker compose up --build backend
+```
+
+Ou pour lancer backend et frontend ensemble :
+
+```bash
+docker compose up --build
+```
