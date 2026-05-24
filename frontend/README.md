@@ -1,4 +1,4 @@
-# SmartPower ADMC frontend
+# SmartPower ADOMC frontend
 
 Interface React TypeScript pour visualiser l'optimisation energetique d'un PC portable par recuit simule.
 

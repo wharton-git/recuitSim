@@ -21,7 +21,7 @@ export function EducationalSection() {
           Une solution Pareto n'est dominee par aucune autre : on ne peut pas ameliorer un critere sans degrader au moins un autre critere.
         </Info>
         <Info title="Interpretation">
-          Le meilleur score reflete vos poids ADMC. Les profils montrent ensuite des compromis utiles selon l'usage : autonomie, silence, froid ou performance.
+          Le meilleur score reflete vos poids ADOMC. Les profils montrent ensuite des compromis utiles selon l'usage : autonomie, silence, froid ou performance.
         </Info>
       </div>
     </section>

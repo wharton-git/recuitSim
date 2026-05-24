@@ -16,7 +16,7 @@ export function Header({ apiStatus }: HeaderProps) {
             <Cpu className="h-6 w-6" />
           </div>
           <div>
-            <h1 className="text-2xl font-semibold tracking-normal text-slate-950 sm:text-3xl">SmartPower ADMC</h1>
+            <h1 className="text-2xl font-semibold tracking-normal text-slate-950 sm:text-3xl">SmartPower ADOMC</h1>
             <p className="mt-1 text-sm text-slate-600">Optimisation multicritere par recuit simule</p>
           </div>
         </div>

@@ -1,6 +1,6 @@
 # recuitSim
 
-Projet ADMC avec backend FastAPI et frontend React/Vite pour visualiser une optimisation energetique par recuit simule.
+Projet ADOMC avec backend FastAPI et frontend React/Vite pour visualiser une optimisation energetique par recuit simule.
 
 ## Lancement avec Docker
 
